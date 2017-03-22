@@ -9,10 +9,10 @@
   "version": "0.0.1",
   "author": "Nick Shvelidze <captain@pirrate.me>",
   "homepage": "https://github.com/shvelo/simplefw-demo",
-  "bugs": "https://github.com/shvelo/simplefw/issues",
+  "bugs": "https://github.com/shvelo/simplefw-demo/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shvelo/simplefw.git"
+    "url": "https://github.com/shvelo/simplefw-demo.git"
   },
   "license": "MIT",
   "dependencies": {
